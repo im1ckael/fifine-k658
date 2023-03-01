@@ -6,5 +6,5 @@ FIFINE K658 EQUALIZER APO PRESET
 3. Закинуть config.txt в C:\Program Files\EqualizerAPO\config либо скопировать текст и вставить частично
 
 Плагины можно скачать здесь:
-https://www.reaper.fm/reaplugs/
-https://loudmax.blogspot.com/
+https://www.reaper.fm/reaplugs/<br>
+https://loudmax.blogspot.com/<br>
