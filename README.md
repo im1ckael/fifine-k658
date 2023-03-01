@@ -11,3 +11,6 @@ FIFINE K658 EQUALIZER APO PRESET
 Плагины можно скачать здесь:<br>
 https://www.reaper.fm/reaplugs/<br>
 https://loudmax.blogspot.com/<br>
+
+Здесь также есть альтернативный config-alt.txt, в котором компрессор используется от FabFilter Pro C версии 1.23.
+Работает чуть мягче и аккуратнее. Найти фаб этой версии можно ВКонтакте в файлах.
