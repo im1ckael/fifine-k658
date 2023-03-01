@@ -1,4 +1,4 @@
 Device: Микрофон Fifine K658  Microphone {1553b048-d3cb-4c8e-891f-fa53c8c1637c}
 VSTPlugin: Library D:\Soft\VST\reaeq-standalone.dll ChunkData "IQAAAAcAAAAIAAAAAQAAAAAAAAAAiLNAHjgcPLP+4T8AAAAAAADwPwEBAAAAAQAAAAAAAAAAQL9AhR7YoOboAUB7FK5H4XqEPwEIAAAAAQAAAAAAAAAAQG9ADkdUHNVz/D8AAAAAAAAIQAEAAAAAAQAAAAAAAAAAQI9ANMTNCyNr6T+amZmZmZm5PwEIAAAAAQAAAAAAAAAAAIlA2Qph6RoE8z8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAILxAHjgcPLP+4T8AAAAAAADwPwEBAAAAAQAAAAAAAAAAiKNA2Qph6RoE8z97FK5H4XqEPwEBAAAAAQAAAAAAAAAAAPA/AAAAAA=="
 VSTPlugin: Library D:\Soft\VST\reacomp-standalone.dll Hipass 0 Thresh 0.0501187 Ratio 0.030303 Attack 0 Release 0.04 Pre-comp 0 resvd 0 Lowpass 1 SignIn 0 AudIn 0 Dry 3.16228e-08 Wet 1 AutoMkUp 0 PreviewF 0 "RMS size" 0.005 Knee 0 AutoRel 0 ClsAttk 1 AntiAls 0
-VSTPlugin: Library D:\Soft\VST\LoudMax64.dll Thresh 0.332975 Output 0.965682 "Fader Link" 0 "ISP Detection" 0 "Large GUI" 0
+VSTPlugin: Library D:\Soft\VST\LoudMax64.dll Thresh 0.332975 Output 0.966136 "Fader Link" 0 "ISP Detection" 0 "Large GUI" 0
