@@ -2,7 +2,7 @@
 FIFINE K658 EQUALIZER APO PRESET
 
 
-<video controls name="media"><source src="[test.webm](https://github.com/asklimanov/fifine-k658/blob/main/test.webm?raw=true)" type="video/webm"></video>
+[test.webm](https://github.com/asklimanov/fifine-k658/blob/main/test.webm?raw=true)
 
 Уровень громкости микрофона в системе: 68<br>
 Ручка регулятора громкости на корпусе: 50% (по центру)<br>
