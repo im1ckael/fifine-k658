@@ -9,6 +9,8 @@ FIFINE K658 EQUALIZER APO PRESET
 
 НАСТРОЙКА:
 
+Необходимо установить <a href="https://sourceforge.net/projects/equalizerapo/files/latest/download">Equalizer APO</a>.
+
 Уровень громкости микрофона в системе: 68<br>
 Ручка регулятора громкости на корпусе: 50% (по центру)<br>
 
