@@ -1,5 +1,4 @@
 # Настройка микрофона Fifine K658
-FIFINE K658 EQUALIZER APO PRESET
 
 ПРОСЛУШАТЬ ТЕСТ (ВКЛЮЧИТЬ ЗВУК):
 
