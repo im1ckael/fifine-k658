@@ -1,3 +1,3 @@
 Device:  Микрофон Fifine K658  Microphone {1553b048-d3cb-4c8e-891f-fa53c8c1637c}
-VSTPlugin: Library D:\Soft\VST\reacomp-standalone.dll Hipass 0 Thresh 0.1 Ratio 0.0909091 Attack 0 Release 0 Pre-comp 0 resvd 0 Lowpass 1 SignIn 0 AudIn 0 Dry 3.16228e-08 Wet 1 AutoMkUp 0 PreviewF 0 "RMS size" 0.005 Knee 0 AutoRel 0 ClsAttk 1 AntiAls 0
+VSTPlugin: Library D:\Soft\VST\reacomp-standalone.dll Hipass 0 Thresh 0.0794328 Ratio 0.0151515 Attack 0 Release 0.1 Pre-comp 1 resvd 0 Lowpass 1 SignIn 0 AudIn 0 Dry 3.16228e-08 Wet 1 AutoMkUp 0 PreviewF 0 "RMS size" 0.005 Knee 0 AutoRel 0 ClsAttk 1 AntiAls 0
 VSTPlugin: Library D:\Soft\VST\LoudMax64.dll Thresh 0.6 Output 1 "Fader Link" 0 "ISP Detection" 0 "Large GUI" 0
