@@ -1,2 +1,2 @@
 Device:  Микрофон Fifine K658  Microphone {1553b048-d3cb-4c8e-891f-fa53c8c1637c}
-VSTPlugin: Library D:\Soft\VST\LoudMax64.dll Thresh 0.6 Output 1 "Fader Link" 0 "ISP Detection" 0 "Large GUI" 0
+VSTPlugin: Library D:\Soft\VST\LoudMax64.dll Thresh 0.666 Output 1 "Fader Link" 0 "ISP Detection" 0 "Large GUI" 0
